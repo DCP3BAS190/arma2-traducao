@@ -12,7 +12,7 @@ Este projeto tem como objetivo disponibilizar uma experiência mais acessível p
 
 > **⚠️ ALTAMENTE RECOMENDADO FAZER BACKUP DOS ARQUIVOS ORIGINAIS ANTES DA INSTALAÇÃO.**
 
-1. Baixe a versão mais recente do projeto.
+1. Baixe a versão mais recente do projeto ou o arquivo: Projeto Compactado.zip.
 2. Extraia os arquivos baixados.
 3. Copie os arquivos da tradução para o diretório de instalação do jogo.
 
